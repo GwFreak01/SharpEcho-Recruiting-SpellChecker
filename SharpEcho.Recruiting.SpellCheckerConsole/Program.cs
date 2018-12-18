@@ -34,12 +34,12 @@ namespace SharpEcho.Recruiting.SpellCheckerConsole
         static void Main(string[] args)
         {
             Console.Write("Please enter a sentance: ");
-            var sentance = Console.ReadLine();
+            var sentence = Console.ReadLine();
             
             // first break the sentance up into words, 
             // then iterate through the list of words using the spell checker
             // capturing distinct words that are misspelled
-            string sentenceSanitized = Regex.Replace(sentance, @"[^\w\s']", "");
+            string sentenceSanitized = Regex.Replace(sentence, @"[^\w\s']", "");
 
             string[] arrayWords = sentenceSanitized.Split(' ');
             
