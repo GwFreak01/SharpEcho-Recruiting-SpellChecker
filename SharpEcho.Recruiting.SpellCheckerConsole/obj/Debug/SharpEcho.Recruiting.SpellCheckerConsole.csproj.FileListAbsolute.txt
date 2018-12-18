@@ -1,0 +1,11 @@
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellCheckerConsole.exe
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellCheckerConsole.pdb
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellChecker.Contracts.dll
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellChecker.Core.dll
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/bin/Debug/SharpEcho.Recruiting.SpellChecker.Core.pdb
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/obj/Debug/SharpEcho.Recruiting.SpellCheckerConsole.csprojAssemblyReference.cache
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/obj/Debug/SharpEcho.Recruiting.SpellCheckerConsole.csproj.CoreCompileInputs.cache
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/obj/Debug/SharpEcho.Recruiting.SpellCheckerConsole.csproj.CopyComplete
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/obj/Debug/SharpEcho.Recruiting.SpellCheckerConsole.exe
+/Users/GWFreak01/Downloads/SharpEcho.Recruiting.SpellChecker/SharpEcho.Recruiting.SpellCheckerConsole/obj/Debug/SharpEcho.Recruiting.SpellCheckerConsole.pdb
